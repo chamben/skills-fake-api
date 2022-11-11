@@ -1,22 +1,22 @@
 [
   {
     "name": "HTML5",
-    "iconClassName": "fab fa-html5",
+    "iconClassName": ["fab","fa-html5"],
     "description": "I use HTML5 to create the structure of my web pages and their content."
   },
   {
     "name": "CSS3",
-    "iconClassName": "fab fa-css3-alt",
+    "iconClassName": ["fab","fa-css3-alt"],
     "description": "I use CSS3 to create the layout of my web pages, color, fonts, and style."
   },
   {
     "name": "JavaScript",
-    "iconClassName": "fab fa-js-square",
+    "iconClassName": ["fab","fa-js-square"],
     "description": "I use JavaScript to make dynamic and interactive web pages that engage the user."
   },
   {
     "name": "ReactJS",
-    "iconClassName": "fab fa-react",
+    "iconClassName": ["fab","fa-react"],
     "description": "I use ReactJS to build interactive web apps quickly and efficiently with less code than I would with JavaScript."
   }
 ]
