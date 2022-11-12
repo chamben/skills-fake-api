@@ -10,7 +10,7 @@
     "description": "I use CSS3 to create the layout of my web pages, color, fonts, and style."
   },
   {
-    "name": "JavaScript",
+    "name": "JavaScript (ES6)",
     "iconClassName": ["fab","fa-js-square"],
     "description": "I use JavaScript to make dynamic and interactive web pages that engage the user."
   },
@@ -18,5 +18,35 @@
     "name": "ReactJS",
     "iconClassName": ["fab","fa-react"],
     "description": "I use ReactJS to build interactive web apps quickly and efficiently with less code than I would with JavaScript."
+  }
+  {
+    "name": "Responsive Design",
+    "iconClassName": ["far","fa-phone-laptop"],
+    "description": "I use Media Queries or Bootstrap to create different layouts depending on the size of the viewport."
+  },
+  {
+    "name": "Version Control/Git",
+    "iconClassName": ["fab","fa-git-alt"],
+    "description": "I use Git to keep track, control and share my code source changes throughout development."
+  },
+  {
+    "name": "REST APIs",
+    "iconClassName": ["fas","fa-exchange"],
+    "description": "I use REST APIs to facilitate communication between my web apps and other platforms, letting them exchange data."
+  },
+  {
+    "name": "Debugging",
+    "iconClassName": ["fas","fa-debug"],
+    "description": "I use breakpoints in my browser to find errors and mistakes in my source code to fix them."
+  },
+  {
+    "name": "Build Tools",
+    "iconClassName": ["fas","fa-tools"],
+    "description": "I use Vite or Parcel to bundle my apps modules and dependencies into a single browser-compatible JavaScript file."
+  },
+  {
+    "name": "Hosting",
+    "iconClassName": ["far","fa-globe"],
+    "description": "I use Netlify to make my web apps accessible online because it allows continuous deployment by using GitHub."
   }
 ]
