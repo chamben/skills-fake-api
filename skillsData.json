@@ -21,7 +21,7 @@
   },
   {
     "name": "Responsive Design",
-    "iconClassName": ["far","fa-phone-laptop"],
+    "iconClassName": ["fas","fa-mobile-alt"],
     "description": "I use Media Queries or Bootstrap to create different layouts depending on the size of the viewport."
   },
   {
@@ -31,22 +31,22 @@
   },
   {
     "name": "REST APIs",
-    "iconClassName": ["fas","fa-exchange"],
+    "iconClassName": ["fa","fa-exchange"],
     "description": "I use REST APIs to facilitate communication between my web apps and other platforms, letting them exchange data."
   },
   {
     "name": "Debugging",
-    "iconClassName": ["fas","fa-debug"],
+    "iconClassName": ["fa","fa-search"],
     "description": "I use breakpoints in my browser to find errors and mistakes in my source code to fix them."
   },
   {
     "name": "Build Tools",
     "iconClassName": ["fas","fa-tools"],
-    "description": "I use Vite or Parcel to bundle my apps modules and dependencies into a single browser-compatible JavaScript file."
+    "description": "I use Vite or Parcel to bundle my apps modules into a single browser-compatible JavaScript file."
   },
   {
     "name": "Hosting",
-    "iconClassName": ["far","fa-globe"],
+    "iconClassName": ["fa","fa-globe"],
     "description": "I use Netlify to make my web apps accessible online because it allows continuous deployment by using GitHub."
   }
 ]
