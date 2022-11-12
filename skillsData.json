@@ -18,7 +18,7 @@
     "name": "ReactJS",
     "iconClassName": ["fab","fa-react"],
     "description": "I use ReactJS to build interactive web apps quickly and efficiently with less code than I would with JavaScript."
-  }
+  },
   {
     "name": "Responsive Design",
     "iconClassName": ["far","fa-phone-laptop"],
